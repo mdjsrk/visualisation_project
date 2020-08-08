@@ -1,0 +1,50 @@
+"","IOC","number_player","lng","lat","Item.x","Year.x","Value.x","country_type","ratio","Background","Item.y","Year.y","Value.y"
+"1","Australia",140,134.755,-24.7761086,"Population, total",2018,24982688,"developed",56.0388057522073,"West","GDP per capita (current US$)",2018,57.37368668
+"2","Austria",59,13.199959,47.2000338,"Population, total",2018,8840521,"developed",66.7381481249804,"West","GDP per capita (current US$)",2018,51.46195478
+"3","Belarus",40,27.6971358,53.4250605,"Population, total",2018,9483499,"developing",42.1785250359598,"West","GDP per capita (current US$)",2018,6.289938553
+"4","Belgium",77,4.6667145,50.6402809,"Population, total",2018,11433256,"developed",67.3473943030752,"West","GDP per capita (current US$)",2018,47.51863604
+"5","Bulgaria",33,25.4856617,42.6073975,"Population, total",2018,7025037,"developed",46.9748415559947,"West","GDP per capita (current US$)",2018,9.272629304
+"6","Canada",69,-107.9917071,61.0666922,"Population, total",2018,37057765,"developed",18.6195794592577,"West","GDP per capita (current US$)",2018,46.23298962
+"7","China",114,104.999927,35.000074,"Population, total",2018,1392730000,"developing",0.818536256130047,"East","GDP per capita (current US$)",2018,9.770847088
+"8","Czech Republic",125,15.4749544,49.8167003,"Population, total",2018,10629928,"developed",117.592518030226,"West","GDP per capita (current US$)",2018,23.07857349
+"9","Denmark",18,10.3333283,55.670249,"Population, total",2018,5793636,"developed",31.068572481944,"West","GDP per capita (current US$)",2018,61.35034791
+"10","Estonia",16,25.3319078,58.7523778,"Population, total",2018,1321977,"developed",121.030850007224,"West","GDP per capita (current US$)",2018,23.26634627
+"11","Finland",22,25.9209164,63.2467777,"Population, total",2018,5515525,"developed",39.8874087235576,"West","GDP per capita (current US$)",2018,50.15234014
+"12","France",293,1.8883335,46.603354,"Population, total",2018,66977107,"developed",43.7462908035129,"West","GDP per capita (current US$)",2018,41.46364402
+"13","Georgia",17,-83.1137366,32.3293809,"Population, total",2018,3726549,"developing",45.6186138972009,"West","GDP per capita (current US$)",2018,4.717143026
+"14","Germany",201,10.4234469,51.0834196,"Population, total",2018,82905782,"developed",24.2443886483092,"West","GDP per capita (current US$)",2018,47.60302763
+"15","Greece",28,21.9877132,38.9953683,"Population, total",2018,10731726,"developed",26.0908636690873,"West","GDP per capita (current US$)",2018,20.32425356
+"16","Hungary",33,19.5060937,47.1817585,"Population, total",2018,9775564,"developed",33.7576430372713,"West","GDP per capita (current US$)",2018,16.16198051
+"17","India",95,78.6677428,22.3511148,"Population, total",2018,1352617328,"developing",0.702342030029058,"East","GDP per capita (current US$)",2018,2.009978857
+"18","Indonesia",5,117.8902853,-2.4833826,"Population, total",2018,267663435,"developing",0.186801757214242,"East","GDP per capita (current US$)",2018,3.893596078
+"19","Ireland",10,-7.9794599,52.865196,"Population, total",2018,4867309,"developed",20.5452335160969,"West","GDP per capita (current US$)",2018,78.806432
+"20","Italy",272,12.674297,42.6384261,"Population, total",2018,60421760,"developed",45.016894575729,"West","GDP per capita (current US$)",2018,34.483204
+"21","Japan",185,139.2394179,36.5748441,"Population, total",2018,126529100,"developed",14.6211424881707,"East","GDP per capita (current US$)",2018,39.28995843
+"22","Kazakhstan",29,65.2093197,47.2286086,"Population, total",2018,18272430,"developing",15.8709049644738,"East","GDP per capita (current US$)",2018,9.812601137
+"23","Latvia",15,24.7537645,56.8406494,"Population, total",2018,1927174,"developed",77.8341758450456,"West","GDP per capita (current US$)",2018,17.8606172
+"24","Lithuania",8,23.7499997,55.3500003,"Population, total",2018,2801543,"developed",28.555692345254,"West","GDP per capita (current US$)",2018,19.15340899
+"25","Luxembourg",4,6.1296751,49.8158683,"Population, total",2018,607950,"developed",65.7948844477342,"West","GDP per capita (current US$)",2018,116.639888
+"26","Malaysia",3,102.2656823,4.5693754,"Population, total",2018,31528585,"developing",0.951517488019205,"East","GDP per capita (current US$)",2018,11.373233
+"27","Malta",2,14.4476911,35.8885993,"Population, total",2018,484630,"developed",41.2685966613705,"West","GDP per capita (current US$)",2018,30.09828331
+"28","Moldova",8,28.5670941,47.2879608,"Population, total",2018,2706049,"developing",29.5633966716789,"West","GDP per capita (current US$)",2018,3.227312192
+"29","Netherlands",96,5.7480821,52.5001698,"Population, total",2018,17231624,"developed",55.7115220248538,"West","GDP per capita (current US$)",2018,53.02405921
+"30","New Zealand",16,172.8344077,-41.5000831,"Population, total",2018,4841000,"developed",33.0510225160091,"West","GDP per capita (current US$)",2018,41.94533167
+"31","Norway",13,11.5280364395482,64.5731537,"Population, total",2018,5311916,"developed",24.4732785684111,"West","GDP per capita (current US$)",2018,81.69724598
+"32","Pakistan",9,71.247499,30.3308401,"Population, total",2018,212215030,"developing",0.424098142341756,"East","GDP per capita (current US$)",2018,1.482403063
+"33","Philippines",8,122.7312101,12.7503486,"Population, total",2018,106651922,"developing",0.75010368777039,"East","GDP per capita (current US$)",2018,3.102713363
+"34","Poland",62,19.134422,52.215933,"Population, total",2018,37974750,"developed",16.32663809505,"West","GDP per capita (current US$)",2018,15.42091116
+"35","Portugal",45,-7.8896263,40.0332629,"Population, total",2018,10283822,"developed",43.7580502657475,"West","GDP per capita (current US$)",2018,23.40790659
+"36","Romania",98,24.6859225,45.9852129,"Population, total",2018,19466145,"developed",50.3438148642168,"West","GDP per capita (current US$)",2018,12.3011864
+"37","Russia",256,97.7453061,64.6863136,"Population, total",2018,144478050,"developing",17.7189545401533,"West","GDP per capita (current US$)",2018,11.28887845
+"38","Singapore",8,103.830391822121,1.340863,"Population, total",2018,5638676,"developing",14.1877277573672,"East","GDP per capita (current US$)",2018,64.58194402
+"39","South Korea",68,127.6961188,36.638392,"Population, total",2018,25549819,"developing",26.6146699512822,"East","GDP per capita (current US$)",2018,31.36275147
+"40","Spain",205,-4.8380649,39.3262345,"Population, total",2018,46796540,"developed",43.8066575007469,"West","GDP per capita (current US$)",2018,30.37089233
+"41","Sri Lanka",3,80.7137847,7.5554942,"Population, total",2018,21670000,"developing",1.38440239963083,"East","GDP per capita (current US$)",2018,4.10248135
+"42","Sweden",64,14.5208584,59.6749712,"Population, total",2018,10175214,"developed",62.8979400334971,"West","GDP per capita (current US$)",2018,54.60836025
+"43","Switzerland",83,8.2319736,46.7985624,"Population, total",2018,8513227,"developed",97.4953445972955,"West","GDP per capita (current US$)",2018,82.79654716
+"44","Thailand",36,100.83273,14.8971921,"Population, total",2018,69428524,"developing",5.18518872733057,"East","GDP per capita (current US$)",2018,7.273563207
+"45","Ukraine",79,31.2718321,49.4871968,"Population, total",2018,44622516,"developing",17.7040667092819,"West","GDP per capita (current US$)",2018,3.095173581
+"46","United Kingdom",136,-3.2765753,54.7023545,"Population, total",2018,66460344,"developed",20.4633307344903,"West","GDP per capita (current US$)",2018,42.94390227
+"47","United States of America",443,-100.4458825,39.7837304,"Population, total",2018,326687501,"developed",13.5603596294307,"West","GDP per capita (current US$)",2018,62.79458565
+"48","Uzbekistan",24,63.9528098,41.32373,"Population, total",2018,32955400,"developing",7.28256977612167,"East","GDP per capita (current US$)",2018,1.532371677
+"49","Vietnam",3,108.4265113,13.2904027,"Population, total",2018,95540395,"developing",0.314003307187499,"East","GDP per capita (current US$)",2018,2.56659695
